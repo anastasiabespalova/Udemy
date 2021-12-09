@@ -8,7 +8,7 @@ Course from App Brewery
 |----------|:-------------|------:|------:|
 | AR Ruler |  Measuring objects using your phone camera. <br>1. The first press sets the starting point <br> 2. The second press sets the end point <br >3. Measurement is shown in real time | UIKit <br> ARKit |    <img src="https://github.com/anastasiabespalova/Udemy/blob/d1fb834c4154eb6f1636069becca0c0c69912a6c/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-11-29%20%D0%B2%2014.53.32.png" alt="Measurement result" width="100"/> |
 | ARDicee |   When you tap the screen, the application recognizes the plane and adds a dice with a random value to it. When you double-click, all added dice are removed.   |   UIKit <br> ARKit | |
-| BMI Calculator | Calculate your BMI |    UIKit (MVC, UISlider, segues) | |
+| BMI Calculator | Calculate your BMI |    UIKit (MVC, UISlider, segues) |  <img src="https://github.com/anastasiabespalova/Udemy/blob/master/BMI-Calculator-iOS13/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-11-29%20at%2020.23.05.png" width="100"/>  <img src="https://github.com/anastasiabespalova/Udemy/blob/master/BMI-Calculator-iOS13/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-11-29%20at%2020.23.28.png" width="100"/>|
 | ByteCoin | Receives the current bitcoin price in the specified currency using the API |    UIKit (URLSession, JSONDecoder, UIPickerView) | |
 | Calculator Advanced | Calculator using MVC pattern |    UIKit (MVC) | |
 | Clima | Getting the current weather by city name. Weather information is obtained using API from Open Weather. Initial weather information refers to the user's current location |    UIKit (MVC, URLSession, CLLocationManager, UITextField) | |
